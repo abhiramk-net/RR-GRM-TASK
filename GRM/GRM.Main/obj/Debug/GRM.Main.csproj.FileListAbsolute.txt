@@ -1,0 +1,7 @@
+C:\Users\KabbiReddy\Documents\Visual Studio 2017\Projects\GRM\GRM.Main\bin\Debug\GRM.Main.exe.config
+C:\Users\KabbiReddy\Documents\Visual Studio 2017\Projects\GRM\GRM.Main\bin\Debug\GRM.Main.exe
+C:\Users\KabbiReddy\Documents\Visual Studio 2017\Projects\GRM\GRM.Main\bin\Debug\GRM.Main.pdb
+C:\Users\KabbiReddy\Documents\Visual Studio 2017\Projects\GRM\GRM.Main\obj\Debug\GRM.Main.csproj.CoreCompileInputs.cache
+C:\Users\KabbiReddy\Documents\Visual Studio 2017\Projects\GRM\GRM.Main\obj\Debug\GRM.Main.exe
+C:\Users\KabbiReddy\Documents\Visual Studio 2017\Projects\GRM\GRM.Main\obj\Debug\GRM.Main.pdb
+C:\Users\KabbiReddy\Documents\Visual Studio 2017\Projects\GRM\GRM.Main\obj\Debug\GRM.Main.csprojResolveAssemblyReference.cache
